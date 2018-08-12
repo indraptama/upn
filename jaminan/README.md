@@ -1,0 +1,1 @@
+# Jaminan Kebendaan

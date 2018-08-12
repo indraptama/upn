@@ -1,0 +1,43 @@
+module.exports = {
+  title: 'Ringkasan UPN',
+  description: 'Kumpulan Materi untuk menghadapi Ujian Pengangkatan Notaris.',
+
+  themeConfig: {
+    base: '/upn/',
+    nav: [
+      {text: 'KEMENKUMHAM', link: '/organisasi/'},
+      {text: 'Notaris', items: [
+        {text: 'Pengangkatan Notaris', link: '/notaris/pengangkatan.html'},
+        {text: 'Perpindahan Notaris', link: '/notaris/pindah.html'},
+        {text: 'Perpanjangan Notaris', link: '/notaris/perpanjangan.html'},
+        {text: 'Pemberhentian Notaris', link: '/notaris/pemberhentian.html'},
+        {text: 'Pengawasan Notaris', link: '/notaris/pengawasan.html'},
+        {text: 'Pembinaan Notaris', link: '/notaris/pembinaan.html'},
+        {text: 'Sikap & Prilaku Notaris', link: '/notaris/sikap.html'}
+      ]},
+      {text: 'Perjanjian', items: [
+        {text: 'Perjanjian Bernama', link: '/perjanjian/bernama.html'},
+        {text: 'perjanjian Tidak Bernama', link: '/perjanjian/tidakbernama.html'},
+        {text: 'Legalisasi & Warmerking', link: '/perjanjian/legalisasi.html'},
+      ]},
+      {text: 'Badan Hukum', items: [
+        {text: 'Perseroan Terbatas', link: '/badanhukum/pt.html'},
+        {text: 'Yayasan', link: '/badanhukum/yayasan.html'},
+        {text: 'perkumpulan', link: '/badanhukum/perkumpulan.html'},
+      ]},
+      {text: 'Jaminan', items: [
+        {text: 'Jaminan Kebendaan', link: '/jaminan/kebendaan.html'},
+        {text: 'Jaminan Perorangan', link: '/jaminan/perorangan.html'},
+        {text: 'Fidusia', link: '/jaminan/fidusia.html'},
+      ]},
+      {text: 'Harta Benda', items: [
+        {text: 'Wasiat', link: '/hartabenda/wasiat.html'},
+        {text: 'Waris', link: '/hartabenda/waris.html'},
+        {text: 'Kepailitan', link: '/hartabenda/kepailitan.html'},
+      ]},
+      {text: 'TPA', link: '/tpa/'},      
+    ],
+    sidebar: 'auto'
+    
+  }
+}
