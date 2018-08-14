@@ -1,6 +1,6 @@
 # pembinaan notaris
 
-Dalam rangka pembinaan notaris menteri membentuk majelis kehormatan notaris. Majelis kehormatan notaris diatur di dalam Pasal 66A undang-undang jabatan notaris dan permenkumham Nomor 7 Tahun 2006 tentang majelis kehormatan notaris.
+Dalam rangka pembinaan notaris menteri membentuk majelis kehormatan notaris. Majelis kehormatan notaris diatur di dalam Pasal 66A undang-undang jabatan notaris dan permenkumham Nomor 7 Tahun 2016 tentang majelis kehormatan notaris.
 
 Majelis kehormatan notaris adalah suatu badan yang mempunyai kewenangan untuk melaksanakan pembinaan Notaris dan kewajiban memberikan persetujuan atau penolakan untuk kepentingan penyidikan dan proses peradilan, atas pengambilan fotocopy minuta akta dan pemanggilan notaris untuk hadir dalam pemeriksaan yang berkaitan dengan akta atau protokol Notaris yang berada dalam penyimpanan notaris.
 
@@ -29,11 +29,13 @@ Majelis kehormatan notaris wilayah mempunyai fungsi pembinaan dalam rangka menja
 ### kewenangan majelis kehormatan notaris wilayah
 
 Berdasarkan keputusan rapat majelis kehormatan notaris wilayah, (permenkumham pasal 20)
+
 1. pemeriksaan terhadap Notaris yang dimintakan persetujuan kepada majelis kehormatan notaris wilayah oleh penyidik, penuntut umum atau Hakim
 2. pemberian persetujuan atau penolakan terhadap permintaan persetujuan pengambilan fotokopi minuta akta dan atas surat-surat yang dilekatkan pada minuta akta atau protokol notaris dalam penyimpanan notaris
 3. Pemberian persetujuan atau penolakan terhadap permintaan persetujuan pemanggilan notaris untuk hadir dalam penyidikan penuntutan dan proses peradilan yang berkaitan dengan akta atau protokol notaris
 
 Pengambilan minuta akta dan surat-surat notaris serta pemanggilan notaris dapat dilakukan dalam hal (permenkumham pasal 26 dan 27) :
+
 1. Adanya dugaan tindak pidana berkaitan dengan minuta akta
 2. Belum gugur hak menuntut berdasarkan ketentuan daluarsa di bidang hukum pidana
 3. Adanya penyangkalan keabsahan tanda tangan dari salah satu pihak

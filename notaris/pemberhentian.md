@@ -11,7 +11,7 @@ pemberhentian dengan hormat diatur dalam pasal 8 undang-undang jabatan notaris. 
 4. Mengundurkan diri secara sukarela
 5. Karena rangkap jabatan
 
-Dalam HAM notaris meninggal dunia maka ahli waris wajib melaporkan ke mpd, Kenapa bila tidak memiliki ahli waris maka pelaporan dilakukan oleh karyawan notaris tersebut.
+Dalam hal notaris meninggal dunia maka ahli waris wajib melaporkan ke mpd, Kenapa bila tidak memiliki ahli waris maka pelaporan dilakukan oleh karyawan notaris tersebut.
 
 
 ## Pemberhentian sementara
@@ -39,7 +39,7 @@ notaris dapat diberhentikan secara tidak hormat dengan alasan sebagaimana diatur
 3. Melakukan perbuatan yang merendahkan harkat dan martabat jabatan notaris
 4. Melakukan pelanggaran berat terhadap tugas dan larangan notaris
 
-pasal 13 mengatur bahwa Notaris yang dijatuhi hukuman dengan ancaman pidana lebih dari 5 tahun akan diberhentikan secara tidak hormat.
+__pasal 13 UUJN__ mengatur bahwa Notaris yang dijatuhi hukuman dengan ancaman pidana lebih dari 5 tahun akan diberhentikan secara tidak hormat.
 
 Pemberhentian dengan tidak hormat dilakukan atas usul MPP kepada Menteri. MPP dapat menerima laporan dari masyarakat atau usul dari organisasi notaris serta rekomendasi dari mpd terkait dengan alasan pemberhentian secara tidak hormat tersebut. (Permenkumham pasal 68)
 

@@ -1,4 +1,13 @@
 # perseroan terbatas
+
+::: tip Dasar Hukum
+[__Undang-undang Nomor 40 Tahun 2007__](/download/uu-40-2007.pdf) \
+[__Peraturan Pemerintah Nomor 43 Tahun 2011__](/download/pp-42-2011.pdf) \
+[__Peraturan Pemerintah Nomor 29 Tahun 2016__](/download/pp-29-2016.pdf) \
+[__Permenkumham Nomor 4 tahun 2014__](/download/permenkumham-4-2014.pdf) \
+[__Permenkumham Nomor 1 Tahun 2016__](/download/permenkumham-1-2016.pdf) 
+:::
+
 Perseroan terbatas diatur dalam undang-undang Nomor 40 Tahun 2007.
 
 perseroan terbatas adalah badan hukum yang merupakan persekutuan modal didirikan berdasarkan perjanjian melakukan kegiatan usaha dengan modal dasar yang seluruhnya terbagi dalam saham dan memenuhi persyaratan yang ditetapkan dalam undang-undang ini Serta peraturan pelaksanaannya.
@@ -52,6 +61,8 @@ Pasal 16 UUPT mengatur hal-hal yang terkait nama yang dapat dipergunakan oleh su
 
 Nama perseroan harus di dahului dengan kata PT. pengajuan penggunaan nama disampaikan kepada Menteri Hukum dan hak asasi manusia secara elektronik, perseroan yang sahamnya dimiliki oleh warga negara Indonesia wajib menggunakan bahasa Indonesia. pengaturan lebih lanjut mengenai nama perseroan diatur di dalam Peraturan Pemerintah Nomor 43 Tahun 2011.
 
+Pemakaian nama Perseroan yang telah mendapat persetujuan Menteri berlaku untuk jangka waktu paling lama 60 (enam puluh) hari (_Pasal 9, Permenkumham No.4 th.2014_). 
+
 ### maksud dan tujuan perseroan
 
 perseroan memiliki maksud dan tujuan serta kegiatan usaha yang dirinci secara jelas dalam anggaran dasar (pasal 18 uupt)
@@ -68,6 +79,38 @@ Dalam perkembangannya modal dasar perseroan mengalami perubahan peraturan, berla
 
 ### Tata Cara Pengajuan Persetujuan Anggaran Dasar
 
+1. Untuk memperoleh keputusan menteri untuk pengesahan badan hukum harus diajukan secara elektronik (_Pasal 11, Permenkumham No.4 th.2014_).
+2. Permohonan harus disampaikan paling lambat 60 hari setelah akta pendirian di tanda-tangani (_Pasal 11, Permenkumham No.4 th.2014_).
+3. Mengisi Format Pendirian PT (_Pasal 11 ayat 3, Permenkumham No.4 th.2014_).
+3. Notaris harus mengupload akta pendirian (_Pasal 13 ayat 3, Permenkumham No.4 th.2014_).
+4. Membayar PNBP untuk Pengesahan badan Hukum (_Pasal 12, Permenkumham No.4 th.2014_).
+
+#### Dokumen yang harus di simpan oleh Notaris
+Dokumen-dokumen yang harus disimpan oleh notaris adalah (_Pasal 13, Permenkumham No.1 th.2016_). :
+
+1. Minuta akta pendirian Perseroan atau minuta akta perubahan pendirian Perseroan; ==
+2. minuta akta peleburan dalam hal pendirian Perseroan dilakukan dalam rangka peleburan; 
+3. bukti setor modal Perseroan, berupa:
+
+  - fotokopi slip setoran atau fotokopi surat keterangan bank atas nama Perseroan atau rekening bersama atas nama para pendiri atau asli surat pernyataan telah menyetor modal Perseroan yang ditandatangani oleh semua anggota Direksi bersama-sama semua pendiri serta semua anggota Dewan Komisaris Perseroan, jika setoran modal dalam bentuk uang; 
+  - asli surat keterangan penilaian dari ahli yang tidak terafiliasi atau bukti pembelian barang jika setoran modal dalam bentuk lain selain uang yang disertai bukti pengumuman dalam surat kabar, jika setoran dalam bentuk benda tidak bergerak; 
+  - fotokopi Peraturan Pemerintah dan/atau Keputusan Menteri Keuangan bagi Perseroan Persero atau Peraturan Daerah dalam hal pendiri adalah Perusahaan Daerah atau Pemerintah Daerah Provinsi/Kabupaten/Kota; atau
+  - fotokopi neraca dari Perseroan yang meleburkan diri atau neraca dari perusahaan bukan badan hukum yang dimasukkan sebagai setoran modal. 
+
+4. surat pernyataan kesanggupan dari pendiri untuk memperoleh keputusan, persetujuan, atau rekomendasi dari instansi teknis untuk Perseroan bidang usaha tertentu atau fotokopi keputusan, persetujuan, dan rekomendasi dari instansi teknis terkait untuk Perseroan bidang usaha tertentu; 
+5. surat pernyataan kesanggupan dari pendiri untuk memperoleh kartu nomor pokok wajib pajak dan laporan penerimaan surat pemberitahuan tahunan pajak; 
+6. fotokopi surat keterangan mengenai alamat lengkap Perseroan dari pengelola gedung atau instansi yang berwenang atau asli surat pernyataan mengenai alamat lengkap Perseroan yang ditandatangani oleh semua anggota direksi bersama-sama semua pendiri serta semua anggota dewan komisaris Perseroan.
+
+Notaris dapat langsung melakukan pencetakan sendiri Keputusan Menteri mengenai pengesahan badan hukum Perseroan, menggunakan kertas berwarna putih ukuran F4/folio dengan berat 80 (delapan puluh gram. (4) Keputusan Menteri sebagaimana dimaksud pada ayat (3) wajib ditandatangani dan dibubuhi cap jabatan oleh Notaris serta memuat frasa yang menyatakan __Keputusan Menteri ini dicetak dari SABH__ (_Pasal 15 ayat 3,4, Permenkumham No.4 th.2014_)
+
+
+#### Biaya Jasa Notaris dalam Pendirian UMKM
+
+Permenkumham Nomor 8 Tahun 2018, tentang Biaya Jasa Hukum Untuk Pendirian Perseroan Terbatas Bagi Usaha Mikro Kecil Dan Menengah. Mengatur bahwa notaris wajib menerapkan biaya untuk UMKM antara lain (Pasal 2, Permenkumham No.8 Th.2018):
+1. Usaha Mikro, Kecil, dan Menengah yang mempunyai modal dasar paling banyak Rp25.000.000,00 (dua puluh lima juta rupiah) dikenakan biaya sebesar Rp1.030.000,00 (satu juta tiga puluh ribu rupiah);
+2. Usaha Mikro, Kecil, dan Menengah yang mempunyai modal dasar lebih dari Rp25.000.000,00 (dua puluh lima juta rupiah) sampai dengan Rp500.000.000,00 (lima ratus juta rupiah) dikenakan biaya sebesar Rp3.030.000,00 (tiga juta tiga puluh ribu rupiah); dan 
+3. Usaha Mikro, Kecil, dan Menengah yang mempunyai modal dasar lebih dari Rp500.000.000,00 (lima ratus juta rupiah) sampai dengan Rp1.000.000.000,00 (satu miliar rupiah) dikenakan biaya sebesar Rp5.030.000,00 (lima juta tiga puluh ribu rupiah). 
+
 ## perubahan anggaran dasar perseroan terbatas
 
 Perubahan anggaran dasar ditetapkan oleh RUPS (PS.19).
@@ -78,7 +121,7 @@ perubahan anggaran (memerlukan persetujuan menteri) wajib disampaikan pada mente
 
 ### perubahan anggaran dasar tertentu
 
-Perubahan Anggaran dasar tertentu adalah Perubahan Anggaran dasar yang memerlukan persetujuan dari Menteri (Ps.21), yaitu:
+Perubahan Anggaran dasar tertentu adalah Perubahan Anggaran dasar yang memerlukan persetujuan dari Menteri (Ps.21 UUPT), yaitu:
 
 1. Perubahan nama perseroan dan atau tempat kedudukan
 2. Maksud dan tujuan serta kegiatan usaha perseroan
@@ -87,9 +130,9 @@ Perubahan Anggaran dasar tertentu adalah Perubahan Anggaran dasar yang memerluka
 5. Pengurangan modal ditempatkan dan disetor
 6. Perubahan status perseroan yang tertutup menjadi terbuka atau sebaliknya
 
-RUPS dengan keputusan Pengurangan modal ditempatkan dan disetor harus diumumkan dalam 1 surat kabar (ps.44 ayat 2)
+RUPS dengan keputusan Pengurangan modal ditempatkan dan disetor harus diumumkan dalam 1 surat kabar (ps.44 ayat 2 UUPT)
 
-perubahan anggaran dasar tertentu harus mendapat persetujuan menteri (PS.21).
+Jika dalam permohonan persetujuan perubahan anggaran dasar sebagaimana dimaksud dalam Pasal 20 terdapat perubahan nama Perseroan, permohonan persetujuan perubahan anggaran dasar diajukan setelah pemakaian nama memperoleh persetujuan dari Menteri. (_Pasal 21, Permenkumham No.4 th.2014_)
 
 ### perubahan anggaran dasar selain tertentu
 
@@ -146,4 +189,43 @@ RUPS kedua dan ketiga dilangsungkan dalam jangka waktu paling cepat 10 hari dan 
 
 Pemegang saham dapat juga mengambil keputusan yang mengikat di luar RUPS dengan syarat semua pemegang saham dengan hak suara menyetujui secara tertulis dengan menandatangani usul yang bersangkutan. (Pasal 91)
 
-Keputusan Pemegang Saham Diluar RUPS pada praktek sering disebut dengan Putusan Sirkuler
+Keputusan Pemegang Saham Diluar RUPS pada praktek sering disebut dengan Putusan Sirkuler.
+
+Perubahan anggaran dasar yang diputuskan di luar RUPS harus dinyatakan dalam akta Notaris dalam jangka waktu paling lama 30 (tiga puluh) hari terhitung sejak tanggal persetujuan seluruh pemegang saham. (_Pasal 19, Permenkumham No.4 th.2014_)
+
+### Tata Cara Persetujuan Perubahan Anggaran Dasar
+
+Tata Cara untuk meminta persetujuan Anggaran Dasar berlaku juga secara mutatis muntadis untuk Perubahan Anggaran Dasar (_Pasal 21, Permenkumham No.4 th.2014_).
+
+#### Dokumen yang harus disimpan Notaris dalam Perubahan Anggaran Dasar
+
+__A. Persetujuan Perubahan Anggaran Dasar (_Pasal 23, Permenkumham No.4 th.2014_)__ :
+
+1. akta tentang perubahan anggaran dasar yang dibuat Notaris; 
+2. notula RUPS perubahan anggaran dasar atau keputusan pemegang saham di luar RUPS; 
+3. akta tentang penggabungan, peleburan, pengambilalihan, dan pemisahan yang dibuat Notaris jika perubahan anggaran dasar dalam rangka penggabungan, dengan melampirkan: 
+  - akta tentang persetujuan penggabungan, peleburan, pengambilalihan, dan pemisahan rancangan penggabungan, peleburan, pengambilalihan, dan pemisahan dari Perseroan; 
+  - fotokopi laporan keuangan yang meliputi 3 (tiga) tahun buku terakhir dari setiap Perseroan yang akan melakukan penggabungan, peleburan, pengambilalihan, dan pemisahan; dan 
+  - bukti pengumuman dalam 1 (satu) surat kabar mengenai ringkasan rancangan penggabungan, peleburan, pengambilalihan, dan pemisahan Perseroan. 
+4. fotokopi Nomor Pokok Wajib Pajak yang diketahui Notaris sesuai dengan aslinya;
+5. bukti pembayaran untuk: 
+  - biaya persetujuan perubahan anggaran dasar; 
+  - biaya pengumuman dalam Tambahan Berita Negara Republik Indonesia; dan 
+  - biaya persetujuan pemakaian nama Perseroan, jika perubahan anggaran dasar mengenai perubahan nama Perseroan. 
+6. bukti setor modal Perseroan dari bank atas nama Perseroan, neraca Perseroan tahun buku berjalan, atau bukti setor dalam bentuk lain, jika perubahan anggaran dasar mengenai peningkatan modal setor Perseroan;
+7. bukti pengumuman dalam surat kabar, jika perubahan anggaran dasar mengenai pengurangan modal; 
+8. fotokopi surat keterangan mengenai alamat lengkap Perseroan dari pengelola gedung atau instansi yang berwenang atau asli surat pernyataan mengenai alamat lengkap Perseroan yang ditandatangani oleh direksi Perseroan; dan 
+9. fotokopi dokumen pendukung dari instansi terkait sesuai dengan ketentuan peraturan perundang-undangan yang diketahui Notaris sesuai dengan aslinya.
+
+__B. Pemberitahuan Perubahan Anggaran Dasar (_Pasal 25, Permenkumham No.1 th.2016_)__ :
+1. akta tentang perubahan anggaran dasar yang dibuat Notaris; 
+2. notula RUPS perubahan anggaran dasar atau keputusan pemegang saham di luar RUPS; 
+3. akta tentang penggabungan, peleburan, pengambilalihan, dan pemisahan yang dibuat Notaris jika perubahan anggaran dasar dalam rangka penggabungan, dengan melampirkan: 
+  - akta tentang persetujuan penggabungan, peleburan, pengambilalihan, dan pemisahan rancangan penggabungan, peleburan, pengambilalihan, dan pemisahan dari Perseroan; 
+  - fotokopi laporan keuangan yang meliputi 3 (tiga) tahun buku terakhir dari setiap Perseroan yang akan melakukan penggabungan, peleburan, pengambilalihan, dan pemisahan; dan 
+  - bukti pengumuman dalam 1 (satu) surat kabar mengenai ringkasan rancangan penggabungan, peleburan, pengambilalihan, dan pemisahan Perseroan. 
+4. bukti pembayaran pengumuman dalam Tambahan Berita Negara Republik Indonesia; 
+5. bukti setor modal Perseroan dari bank atas nama Perseroan, neraca Perseroan tahun buku berjalan, atau bukti setor dalam bentuk lain, jika perubahan anggaran dasar mengenai peningkatan modal setor Perseroan; 
+6. fotokopi dokumen pendukung dari instansi terkait sesuai dengan ketentuan peraturan perundang-undangan yang diketahui Notaris sesuai dengan aslinya; 
+7. fotokopi neraca dan laporan laba rugi dari tahun buku bersangkutan bagi Perseroan yang wajib diaudit; dan
+8. fotokopi kartu nomor pokok wajib pajak dan laporan penerimaan surat pemberitahuan tahunan pajak Perseroan.

@@ -1,5 +1,15 @@
 # Teknik Pembuatan Akta
 
+__Akta in originali (Ps.15 ayat 3-5)__
+- Akta pembayaran uang sewa, bunga dan Pensiun
+- Akta Penawaran pembayaran tunai
+- Akta Protes
+- Akta Kuasa
+- Akta Keterangan Kepemikan
+- Akta Lainnya
+4. Akta originali tertulis BERLAKU SEBAGAI SATU DAN SATU UNTUK SEMUA
+5. Akta in originali yang berisi kuasa yang belum diisi nama penerima kuasa hanya dapat dibuat dalam 1 (satu) rangkap
+
 ## Contoh-contoh Komparisi
 
 ### Komparisi Anak di Bawah Umur

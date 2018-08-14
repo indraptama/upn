@@ -1,6 +1,7 @@
 # pengawasan notaris
 
 Notaris diawasi oleh menteri dengan membentuk majelis pengawas. Majelis pengawas terdiri dari unsur (pasal 67 UUJN): 
+
 - pemerintah sebanyak 3 orang
 - organisasi notaris sebanyak 3 orang
 - ahli atau akademisi sebanyak 3 orang
@@ -15,7 +16,7 @@ Majelis pengawas berdasarkan tempat kedudukannya dibagi menjadi 3 bagian yaitu (
 Majelis pengawas daerah dibentuk di kabupaten atau kota. apabila jumlah notaris tidak sebanding dengan jumlah anggota Majelis pengawas daerah, maka dapat dibentuk majelis pengawas daerah gabungan untuk beberapa kota dan kabupaten. masa jabatan ketua Wakil Ketua dan anggota Majelis pengawas daerah adalah 3 tahun dan dapat diangkat kembali. dalam tugasnya majelis pengawas daerah dibantu oleh sekretaris yang ditunjuk dalam rapat majelis pengawas daerah (pasal 69 UUJN)
 
 ### kewenangan majelis pengawas daerah (pasal 70 UUJN)
-1. Nyalakan sidang untuk memeriksa dugaan pelanggaran kode etik notaris atau pelanggaran jabatan notaris
+1. menyelenggarakan sidang untuk memeriksa dugaan pelanggaran kode etik notaris atau pelanggaran jabatan notaris
 2. melakukan pemeriksaan terhadap protokol notaris secara berkala 1 kali dalam setahun
 3. Memberikan izin cuti selama maksimal 6 bulan
 4. menetapkan notaris pengganti dengan memperhatikan usul Notaris yang bersangkutan

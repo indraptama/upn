@@ -15,6 +15,8 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
+  
+  // Theme Configuration
   themeConfig: {
     nav: [
       {text: 'KEMENKUMHAM', link: '/organisasi/'},
