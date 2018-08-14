@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3e0fbf4e7c2056de7cb967817b9a398d"
+    "revision": "86e5c820d9e99fd0f5e08f6079fb9120"
   },
   {
     "url": "assets/css/0.styles.8b973bf0.css",
@@ -148,24 +148,24 @@ self.__precacheManifest = [
     "revision": "b6822430c7f15ee0b0155031a6440f22"
   },
   {
-    "url": "assets/js/app.d7788e6a.js",
-    "revision": "a2dc6b90768cfa5fd8828db02979ea02"
+    "url": "assets/js/app.20d51901.js",
+    "revision": "61d5e05ae43c7712dcea19796d501c88"
   },
   {
     "url": "badanhukum/index.html",
-    "revision": "526c01e25da9813cbaabe09e1a47e9bc"
+    "revision": "10e9ebb9e7c6b39190bfb1ae69c4dd88"
   },
   {
     "url": "badanhukum/perkumpulan.html",
-    "revision": "c944ae8bb293a1cb9afb821047dd3694"
+    "revision": "f8d816dc6f2e976d76f74dccc3570728"
   },
   {
     "url": "badanhukum/pt.html",
-    "revision": "e9eb856729e0ef9c638d7c160b90199f"
+    "revision": "218b52cc890e6ab2ed65e5a141ef875b"
   },
   {
     "url": "badanhukum/yayasan.html",
-    "revision": "737502bf16a3e4eef872820a252b7489"
+    "revision": "b6f54d09e65e5901afb018be65c21cab"
   },
   {
     "url": "dashline-s.svg",
@@ -177,15 +177,15 @@ self.__precacheManifest = [
   },
   {
     "url": "hartabenda/index.html",
-    "revision": "d2ca4dbc221c14111a6eea864ed1b1dd"
+    "revision": "f9fb9b61295fa2686a3cabc48daa6d06"
   },
   {
     "url": "hartabenda/kepailitan.html",
-    "revision": "5702e60e7598bbe171ebab7d41d978d8"
+    "revision": "93815033e5c74547501cc964b79f742a"
   },
   {
     "url": "hartabenda/waris.html",
-    "revision": "4aa86da12608477115b106cda1f93ca5"
+    "revision": "f4106ac23cf397026638aa0ede241d50"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -293,79 +293,79 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "024d47374c7c1c5d25c318540374c48b"
+    "revision": "50aaf3d30f9e73c6f5028d9ae3d80728"
   },
   {
     "url": "jaminan/fidusia.html",
-    "revision": "4baba77006d00a545006658e86a29625"
+    "revision": "46b16de324506bf65a303ada7c247bbb"
   },
   {
     "url": "jaminan/index.html",
-    "revision": "3722a5f2fdf2f3d143d3a6067c9f7e99"
+    "revision": "488408ecce345e04887f03b5dac2a3cb"
   },
   {
     "url": "jaminan/perorangan.html",
-    "revision": "7caf680ea47a56be60976151dafa2768"
+    "revision": "610ff881d2b87f36cae7496ce2f6b8ac"
   },
   {
     "url": "notaris/index.html",
-    "revision": "b526ef6b1291892b756738c80146cfd2"
+    "revision": "3b4b5f65633da922f571debb3a6eecb1"
   },
   {
     "url": "notaris/pemberhentian.html",
-    "revision": "dfbc4713126696b5e83566a99cb1556e"
+    "revision": "a3f1fcf1beae54ab51dc30a30858eaa8"
   },
   {
     "url": "notaris/pembinaan.html",
-    "revision": "28b68a4da1ab1f2fb50706a02908908f"
+    "revision": "28837e1653f3a6578508b47f85bc0dc9"
   },
   {
     "url": "notaris/pengangkatan.html",
-    "revision": "2953b61e513f266714622bc505213a92"
+    "revision": "1e16a6cf8f95b8b44c358b75b0ada0a2"
   },
   {
     "url": "notaris/pengawasan.html",
-    "revision": "3af6f2358f09941e156012caafba6def"
+    "revision": "ca0703437a64fe822bf4241d286db52a"
   },
   {
     "url": "notaris/perpanjangan.html",
-    "revision": "73d2dac26c4144b712251db3cbdf7995"
+    "revision": "87ddac8c3034338c3006a7617572b404"
   },
   {
     "url": "notaris/pindah.html",
-    "revision": "93c9e36df25c29ff9c551e92737c6da5"
+    "revision": "1e5ae70151e31880ea1e226ba522c6d7"
   },
   {
     "url": "notaris/sikap.html",
-    "revision": "06890597be2549f8fa9029d645dc5c40"
+    "revision": "50b48d2bea5961437dc63ab91e923386"
   },
   {
     "url": "organisasi/index.html",
-    "revision": "8e6b70ba6d849d2dc066c988e07c810c"
+    "revision": "038be94ee6b14ec0459219d20e45a171"
   },
   {
     "url": "organisasi/organisasi.html",
-    "revision": "94c98f8e1b7012616efa6e4c335f10a1"
+    "revision": "ae75e76f7c5be21cc3ee85cb64bb7f7d"
   },
   {
     "url": "perjanjian/bernama.html",
-    "revision": "3fb16e7f4fbfc820dcc1e4081320aade"
+    "revision": "d5c9abad437f4a9f1a8e42570425491f"
   },
   {
     "url": "perjanjian/index.html",
-    "revision": "73aae73f5f05728c4164ce129fdd6ee3"
+    "revision": "54f47bd7160e127b64fbb3b3c14b8c92"
   },
   {
     "url": "perjanjian/legalisasi.html",
-    "revision": "b21d07dbe4aeb083b38fbfc8e4598288"
+    "revision": "3569c962dc93d5a23f65de4baba4c2c2"
   },
   {
     "url": "perjanjian/tidakbernama.html",
-    "revision": "51748c4d48d1b62fd923d9a7ee16d21e"
+    "revision": "7e0f14ce444335d4c9ffc00b2a53814f"
   },
   {
     "url": "tpa/index.html",
-    "revision": "89ccf1085c483654def50255c7d8d696"
+    "revision": "b6476b070e0052ab12f1ea124262248d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

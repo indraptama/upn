@@ -52,6 +52,11 @@ module.exports = {
     sidebar: {
       '/notaris/':[
         '',
+        'pindah',
+        'perpanjangan',
+        'pemberhentian',
+        'pengawasan',
+        'pembinaan',
         'sikap',
       ],
 
