@@ -21,151 +21,167 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "86e5c820d9e99fd0f5e08f6079fb9120"
+    "revision": "f73e8a3ee536c9e9295c24ebaddc9552"
   },
   {
-    "url": "assets/css/0.styles.8b973bf0.css",
-    "revision": "9717a347b13aeea9fe1f2d6f048dd3ae"
+    "url": "assets/css/0.styles.4e6da9c4.css",
+    "revision": "f7c431a4c77f822a17edeaa0071a4b0f"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.8e73f33d.js",
-    "revision": "ab4f235063638c1177042c4b0ed30c2f"
+    "url": "assets/js/10.0d9d4596.js",
+    "revision": "a9128040167718080989a1fe7864d485"
   },
   {
-    "url": "assets/js/11.614257d9.js",
-    "revision": "10d93377baad060da78e1e80df0c2427"
+    "url": "assets/js/11.36f01eed.js",
+    "revision": "6c915e9f2f76f8173f14b15b3b0ee072"
   },
   {
-    "url": "assets/js/12.2d124127.js",
-    "revision": "b9c28b20bd2fb32f07bc9773c1c112c9"
+    "url": "assets/js/12.407bc694.js",
+    "revision": "caf66bcaa62c326d16132cfe8f36a231"
   },
   {
-    "url": "assets/js/13.38e425db.js",
-    "revision": "094da7a54a0e5f14f890d55ecf22c89b"
+    "url": "assets/js/13.ba3f1fb9.js",
+    "revision": "8ebdb74f26c831baf59cce5d6832c750"
   },
   {
-    "url": "assets/js/14.65004b80.js",
-    "revision": "679916dc2e008e9c7a93ca366bef24bd"
+    "url": "assets/js/14.562fc86a.js",
+    "revision": "fa361fb04e824b73bcb263a58087228d"
   },
   {
-    "url": "assets/js/15.e2f754d8.js",
-    "revision": "ec528208f4d56ed7eaf0d58941d65484"
+    "url": "assets/js/15.165fa2ab.js",
+    "revision": "51430ed52dee708ea034cbb4422bcee8"
   },
   {
-    "url": "assets/js/16.01a2e397.js",
-    "revision": "31486aebff097baf9104d304d9f1bcff"
+    "url": "assets/js/16.57e32b6e.js",
+    "revision": "23f80faddb1fc076634d0c41032fdeb3"
   },
   {
-    "url": "assets/js/17.b19fcdc6.js",
-    "revision": "6bbb99887b235dc6ab7ab8860b06df59"
+    "url": "assets/js/17.97dc8a20.js",
+    "revision": "86c8b030653f8e067a3153e631acca30"
   },
   {
-    "url": "assets/js/18.d234f9aa.js",
-    "revision": "3110167bd75601963f37f4d3900347e1"
+    "url": "assets/js/18.1768f65d.js",
+    "revision": "839c4ae4a42ec765e9c101a2e6e93bef"
   },
   {
-    "url": "assets/js/19.26de1327.js",
-    "revision": "d7f17d4413d1a7492216437ad005c262"
+    "url": "assets/js/19.71015371.js",
+    "revision": "ca1ee89b9d1622d877056d26c26556a0"
   },
   {
     "url": "assets/js/2.90a804d4.js",
     "revision": "70942fb94c5d2ac8769b826ae17f4834"
   },
   {
-    "url": "assets/js/20.7f9f514c.js",
-    "revision": "460b463072d789b895fe880f1576282e"
+    "url": "assets/js/20.55bad40d.js",
+    "revision": "a0f40315ed5effaf9c087a673f1d15b9"
   },
   {
-    "url": "assets/js/21.3b01458e.js",
-    "revision": "6475dc24e55bf2bf53e1f12f6922644c"
+    "url": "assets/js/21.267ecb88.js",
+    "revision": "d2843c2bc40cfe1af7be43723f90ca31"
   },
   {
-    "url": "assets/js/22.950d82ba.js",
-    "revision": "59c6216eccea1c45705915df66066212"
+    "url": "assets/js/22.3ac39f79.js",
+    "revision": "9068eb22daa616d62cfa24e911e98b2d"
   },
   {
-    "url": "assets/js/23.b3c61f0d.js",
-    "revision": "f8774f2ac06a4f4bb65fd4ed6d0c5b54"
+    "url": "assets/js/23.0c7c62e3.js",
+    "revision": "29b62dcf9638962def4e7a42e8207d60"
   },
   {
-    "url": "assets/js/24.a19d2e56.js",
-    "revision": "3f9f03f0b08d0476d0863fe312d6a8a0"
+    "url": "assets/js/24.40df1758.js",
+    "revision": "b6213553d793b3a5aab22668bc672e57"
   },
   {
-    "url": "assets/js/25.59a59d1b.js",
-    "revision": "bcada4aff2419c74c63da649ac5f4407"
+    "url": "assets/js/25.60003aba.js",
+    "revision": "dd56ae37aa20e86497e58966d2314dc6"
   },
   {
-    "url": "assets/js/26.ea4e2143.js",
-    "revision": "b3d230de011384cd20848d7f180819aa"
+    "url": "assets/js/26.130738ba.js",
+    "revision": "23044a922c3a12436cc2c372680ec994"
   },
   {
-    "url": "assets/js/27.6165ebfd.js",
-    "revision": "cc99534a00b0a561d9fa9d1962db2d96"
+    "url": "assets/js/27.25352ca8.js",
+    "revision": "efd25c90bb5073b5ebfb62bb98e03359"
   },
   {
-    "url": "assets/js/28.9b1430e1.js",
-    "revision": "538582d9321214cc238aa18382b0d40d"
+    "url": "assets/js/28.22af7163.js",
+    "revision": "3cf182b4f342509f89cdfec715a9e622"
   },
   {
-    "url": "assets/js/29.04051d6c.js",
-    "revision": "bbd92a8c09d21a9e8e6132ea88ad7509"
+    "url": "assets/js/29.7351f500.js",
+    "revision": "d03733995927ca9485b2a424f53ccb3d"
   },
   {
-    "url": "assets/js/3.17fc160f.js",
-    "revision": "21da2facb60cae223f7c188285f54f0a"
+    "url": "assets/js/3.9f022ef2.js",
+    "revision": "964e0b4a188d59f854ff9edf975f8dad"
   },
   {
-    "url": "assets/js/30.7e8c5434.js",
-    "revision": "32c6428a61715c4c200f6340ce813311"
+    "url": "assets/js/30.5bcb7d1f.js",
+    "revision": "6db5e084d88489194b9da1adb441fa3b"
   },
   {
-    "url": "assets/js/4.cb6e19dd.js",
-    "revision": "f764d2c603acffae0d04297931f85093"
+    "url": "assets/js/31.912a1d93.js",
+    "revision": "b07a90ee32bfba3fdaf9c87cba8180d5"
   },
   {
-    "url": "assets/js/5.339ba1be.js",
-    "revision": "d7b12ebc574844fe54b686f797d71c4c"
+    "url": "assets/js/32.c76b5149.js",
+    "revision": "202d51578c2d422a11bb8bfe7cb7ce26"
   },
   {
-    "url": "assets/js/6.cac9aade.js",
-    "revision": "ea00c79b5bf7d5399ad051ed338fd06e"
+    "url": "assets/js/4.4f9bd50e.js",
+    "revision": "9b9e256725b58ba2572f7a1032a80246"
   },
   {
-    "url": "assets/js/7.8e7ae9c6.js",
-    "revision": "532989d4da18b671fd09ad45d42557ba"
+    "url": "assets/js/5.2bb1484b.js",
+    "revision": "fd5fc80782a00d2e2029eea8aee315c1"
   },
   {
-    "url": "assets/js/8.ce44eea6.js",
-    "revision": "88430429704eb96c22477588434d042a"
+    "url": "assets/js/6.3c23f6da.js",
+    "revision": "9f44b5e55b8c95210fdf1b3aee7fa71a"
   },
   {
-    "url": "assets/js/9.fdba152b.js",
-    "revision": "b6822430c7f15ee0b0155031a6440f22"
+    "url": "assets/js/7.edac40f0.js",
+    "revision": "0bbf3cad480f66f7dbf0ec4af7307abd"
   },
   {
-    "url": "assets/js/app.20d51901.js",
-    "revision": "61d5e05ae43c7712dcea19796d501c88"
+    "url": "assets/js/8.68f2eeab.js",
+    "revision": "ff77daf634bd02661056d77283df9b95"
+  },
+  {
+    "url": "assets/js/9.71acf592.js",
+    "revision": "fc4ba57222728604347825a7b593293f"
+  },
+  {
+    "url": "assets/js/app.297c98c2.js",
+    "revision": "f6649fc043d13a8d2276119bbdd2c024"
   },
   {
     "url": "badanhukum/index.html",
-    "revision": "10e9ebb9e7c6b39190bfb1ae69c4dd88"
+    "revision": "42d33bd6c3d9bd256c76163182775c22"
   },
   {
     "url": "badanhukum/perkumpulan.html",
-    "revision": "f8d816dc6f2e976d76f74dccc3570728"
+    "revision": "c2dc0f0ce955a6bcc592f52c1dfc6411"
   },
   {
     "url": "badanhukum/pt.html",
-    "revision": "218b52cc890e6ab2ed65e5a141ef875b"
+    "revision": "336bf13610849c72be8fc32ae2701300"
+  },
+  {
+    "url": "badanhukum/yayasan.1.html",
+    "revision": "be62fb9812f2871fa43226bb8196ffdf"
   },
   {
     "url": "badanhukum/yayasan.html",
-    "revision": "b6f54d09e65e5901afb018be65c21cab"
+    "revision": "7ae63dd577158ba90bf9593b3c27d270"
+  },
+  {
+    "url": "badanhukum/yayasan2.html",
+    "revision": "4ab1f762e400aea3f1b91fdd48017dde"
   },
   {
     "url": "dashline-s.svg",
@@ -177,15 +193,15 @@ self.__precacheManifest = [
   },
   {
     "url": "hartabenda/index.html",
-    "revision": "f9fb9b61295fa2686a3cabc48daa6d06"
+    "revision": "45d9936b18d60a4afd6b2ca188a39def"
   },
   {
     "url": "hartabenda/kepailitan.html",
-    "revision": "93815033e5c74547501cc964b79f742a"
+    "revision": "7df7851168195614647bbf1f41191173"
   },
   {
     "url": "hartabenda/waris.html",
-    "revision": "f4106ac23cf397026638aa0ede241d50"
+    "revision": "5e228c685a29b0c79602cddeb472b02e"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -293,79 +309,79 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "50aaf3d30f9e73c6f5028d9ae3d80728"
+    "revision": "c431981633a6477ba1c055278ed35839"
   },
   {
     "url": "jaminan/fidusia.html",
-    "revision": "46b16de324506bf65a303ada7c247bbb"
+    "revision": "f51b161f34375795f622e0c6f176c959"
   },
   {
     "url": "jaminan/index.html",
-    "revision": "488408ecce345e04887f03b5dac2a3cb"
+    "revision": "a8be9a1f649dcd6fe18fdeba6e04d011"
   },
   {
     "url": "jaminan/perorangan.html",
-    "revision": "610ff881d2b87f36cae7496ce2f6b8ac"
+    "revision": "76f3489249898aa0d5edf03a0dbad6ba"
   },
   {
     "url": "notaris/index.html",
-    "revision": "3b4b5f65633da922f571debb3a6eecb1"
+    "revision": "c0f873bd383189602257f9b663e958e4"
   },
   {
     "url": "notaris/pemberhentian.html",
-    "revision": "a3f1fcf1beae54ab51dc30a30858eaa8"
+    "revision": "c35c9e136b430f35141c126760fbf5f9"
   },
   {
     "url": "notaris/pembinaan.html",
-    "revision": "28837e1653f3a6578508b47f85bc0dc9"
+    "revision": "d8d0ab56a4ee7636d4fabe2a960f190a"
   },
   {
     "url": "notaris/pengangkatan.html",
-    "revision": "1e16a6cf8f95b8b44c358b75b0ada0a2"
+    "revision": "0b8929e34e5991907781448e792b5723"
   },
   {
     "url": "notaris/pengawasan.html",
-    "revision": "ca0703437a64fe822bf4241d286db52a"
+    "revision": "dbb806de7e5fad3fd13307fe515e590f"
   },
   {
     "url": "notaris/perpanjangan.html",
-    "revision": "87ddac8c3034338c3006a7617572b404"
+    "revision": "119dbd3c68712d85823a29c73127fb49"
   },
   {
     "url": "notaris/pindah.html",
-    "revision": "1e5ae70151e31880ea1e226ba522c6d7"
+    "revision": "59ea8f6d9f913af385b3ef1c8e9f5400"
   },
   {
     "url": "notaris/sikap.html",
-    "revision": "50b48d2bea5961437dc63ab91e923386"
+    "revision": "cba72dc653c974463bd3aabb0f378207"
   },
   {
     "url": "organisasi/index.html",
-    "revision": "038be94ee6b14ec0459219d20e45a171"
+    "revision": "c6f9700b24cd280a0dbf00179b980917"
   },
   {
     "url": "organisasi/organisasi.html",
-    "revision": "ae75e76f7c5be21cc3ee85cb64bb7f7d"
+    "revision": "e9a87359ed726524a23b424c72798ab8"
   },
   {
     "url": "perjanjian/bernama.html",
-    "revision": "d5c9abad437f4a9f1a8e42570425491f"
+    "revision": "07d64023685fbc126de406f4d450361f"
   },
   {
     "url": "perjanjian/index.html",
-    "revision": "54f47bd7160e127b64fbb3b3c14b8c92"
+    "revision": "f0bf1a9cb3d15aaa568f87f040b55695"
   },
   {
     "url": "perjanjian/legalisasi.html",
-    "revision": "3569c962dc93d5a23f65de4baba4c2c2"
+    "revision": "1a7d5345a3bd9c42f5362de06db2f7ba"
   },
   {
     "url": "perjanjian/tidakbernama.html",
-    "revision": "7e0f14ce444335d4c9ffc00b2a53814f"
+    "revision": "62a0b6ca231db598b403ec1ef63d17f1"
   },
   {
     "url": "tpa/index.html",
-    "revision": "b6476b070e0052ab12f1ea124262248d"
+    "revision": "ed5b4aa098623d9e915908efa4c9c3da"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

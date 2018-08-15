@@ -1,11 +1,11 @@
 # perseroan terbatas
 
 ::: tip Dasar Hukum
-[__Undang-undang Nomor 40 Tahun 2007__](/download/uu-40-2007.pdf) \
-[__Peraturan Pemerintah Nomor 43 Tahun 2011__](/download/pp-42-2011.pdf) \
-[__Peraturan Pemerintah Nomor 29 Tahun 2016__](/download/pp-29-2016.pdf) \
-[__Permenkumham Nomor 4 tahun 2014__](/download/permenkumham-4-2014.pdf) \
-[__Permenkumham Nomor 1 Tahun 2016__](/download/permenkumham-1-2016.pdf) 
+[__Undang-undang Nomor 40 Tahun 2007__](/upn/download/uu-40-2007.pdf) \
+[__Peraturan Pemerintah Nomor 43 Tahun 2011__](/upn/download/pp-42-2011.pdf) \
+[__Peraturan Pemerintah Nomor 29 Tahun 2016__](/upn/download/pp-29-2016.pdf) \
+[__Permenkumham Nomor 4 tahun 2014__](/upn/download/permenkumham-4-2014.pdf) \
+[__Permenkumham Nomor 1 Tahun 2016__](/upn/download/permenkumham-1-2016.pdf) 
 :::
 
 Perseroan terbatas diatur dalam undang-undang Nomor 40 Tahun 2007.
@@ -76,6 +76,9 @@ Maksud dan tujuan perseroan harus sesuai dengan KLBI.
 pasal 32 dan pasal 33 undang-undang PT mengatur mengenai modal dasar dan modal ditempatkan perseroan. Adapun modal dasar perseroan adalah minimal 50 juta, sedangkan modal ditempatkan paling sedikit 25% dari modal dasar.
 
 Dalam perkembangannya modal dasar perseroan mengalami perubahan peraturan, berlakunya peraturan pemerintah nomor 7 tahun 2016 sebagai pelaksanaan dari pasal 32 ayat 3 UU PT. Maka dalam hal kekayaan pendiri masuk ke dalam kategori UMKM modal dasar ditentukan berdasarkan kesepakatan para pendiri perseroan terbatas.
+
+Modal perseroan dapat disetor dalam bentuk uang dan bentuk lainnya. Penyetoran modal saham selain uang ditetapkan berdasarkan nilai wajar sesuai dengan harga pasar oleh ahli yang tidak terafiliasi (appraisal).
+Jika penyetoran dalam bentuk benda tidak bergerak harus diumumkan dalam satu surat kabar dalam jangka waktu 14 hari setelah akta pendirian. (Pasal 34 UU PT)
 
 ### Tata Cara Pengajuan Persetujuan Anggaran Dasar
 
