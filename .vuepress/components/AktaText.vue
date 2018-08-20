@@ -15,18 +15,20 @@ export default {
 
     for (const Text of TextP) {
       const content = Text.innerHTML
-      const newContent = '<span class="AktaText-text">'+ content +'</span>'
+      const newContent = '<span class="AktaTextContent">'+ content +'</span>'
       Text.innerHTML = newContent;
     }
 
     for (const Text of TextList) {
       const content = Text.innerHTML
-      const newContent = '<span class="AktaText-text">'+ content +'</span>'
+      const newContent = '<span class="AktaTextContent">'+ content +'</span>'
       Text.innerHTML = newContent;
     }
   },
 }
 </script>
+
+
 
 <style>
 
@@ -61,9 +63,8 @@ export default {
 }
 
 
-.AktaText-text {
-  display: inline;
-  padding: .35em 0;
+.AktaTextContent {
+  
   background-color: #f4f4f4;
 }
 
