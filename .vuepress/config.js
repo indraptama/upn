@@ -37,8 +37,8 @@ module.exports = {
         {text: 'perkumpulan', link: '/badanhukum/perkumpulan.html'},
       ]},
       {text: 'Jaminan', items: [
-        {text: 'Jaminan Kebendaan', link: '/jaminan/'},
         {text: 'Jaminan Perorangan', link: '/jaminan/perorangan.html'},
+        {text: 'Jaminan Kebendaan', link: '/jaminan/'},
         {text: 'Fidusia', link: '/jaminan/fidusia.html'},
       ]},
       {text: 'Harta Benda', items: [
