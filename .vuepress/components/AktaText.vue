@@ -40,6 +40,7 @@ export default {
   background-color: #f4f4f4;
   padding: 0.1rem 1.5rem;
   border-left: 0.5rem solid #aaa;
+  margin-top: 1.5rem;
 }
 
 .AktaText p,
