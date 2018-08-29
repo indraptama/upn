@@ -21,171 +21,175 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "3c2c8ecee1640489f48d34a02709168c"
+    "revision": "6ccc5737f8ba1a217331b00be479ef3a"
   },
   {
-    "url": "assets/css/0.styles.41acedc7.css",
-    "revision": "1e887b856d311707ddde1540f95e4500"
+    "url": "assets/css/0.styles.dc1b091e.css",
+    "revision": "f9f4632db26cc5dedf422880dbd7cea8"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.da53f8c2.js",
-    "revision": "bbda4e98f552a23828cf32b679e34c7c"
+    "url": "assets/js/10.dce8d67e.js",
+    "revision": "8b178248f4c7963b95c36e84ea224354"
   },
   {
-    "url": "assets/js/11.caea2d02.js",
-    "revision": "ebbc6eb1638c9b7016a37abc0e46d8a2"
+    "url": "assets/js/11.66ef8f18.js",
+    "revision": "0413746e1e675d438af64f6fb006a5a2"
   },
   {
-    "url": "assets/js/12.89432c63.js",
-    "revision": "a98b8a275277d9a4c2018a5323bc810d"
+    "url": "assets/js/12.28d33fa4.js",
+    "revision": "5068af002eb5da38097111f6a9be14f0"
   },
   {
-    "url": "assets/js/13.c51b3258.js",
-    "revision": "5642409f6d8fe23aeb8fb0ad63a98bd1"
+    "url": "assets/js/13.d4ab35dd.js",
+    "revision": "f8620ed406100a5ef3f726b93f7d8874"
   },
   {
-    "url": "assets/js/14.ec8fcfa0.js",
-    "revision": "efb7ac7c6ecaf8148597415ad2c548cd"
+    "url": "assets/js/14.41ac56f6.js",
+    "revision": "63f140c4f7f9acec93b7eb5bb4c707e0"
   },
   {
-    "url": "assets/js/15.fa69b666.js",
-    "revision": "12d47bc329b87a23bae6f23d0deb74d0"
+    "url": "assets/js/15.0d9a1b5d.js",
+    "revision": "801242f46b9dab0f6c8711aef4345a87"
   },
   {
-    "url": "assets/js/16.6acf8417.js",
-    "revision": "6369a4477ace93f931a8851201332ec2"
+    "url": "assets/js/16.01f9907a.js",
+    "revision": "69bfd80a488be5e24efc0d86b9534467"
   },
   {
-    "url": "assets/js/17.1f271647.js",
-    "revision": "5164c0d773151398b721bd49a4b8637e"
+    "url": "assets/js/17.f96fa440.js",
+    "revision": "b0e733b839c5572f406eacfb74438a96"
   },
   {
-    "url": "assets/js/18.998634f8.js",
-    "revision": "ba125432c58576fa6647ee9d6acc4652"
+    "url": "assets/js/18.478ab123.js",
+    "revision": "c44bebdb89149bc6734654e55e248e46"
   },
   {
-    "url": "assets/js/19.7f6d1c1f.js",
-    "revision": "58d4c94fb4e4557b056433c1bec28a0b"
+    "url": "assets/js/19.a44e2ecd.js",
+    "revision": "14187b5e4272d4ae83590b1ea4ebe849"
   },
   {
-    "url": "assets/js/2.3d53c135.js",
-    "revision": "2ff2705e890b878913a9dfcd10aada51"
+    "url": "assets/js/2.0a7487a4.js",
+    "revision": "6853b105a973c9ab9d43289041231e67"
   },
   {
-    "url": "assets/js/20.46a165bc.js",
-    "revision": "b96c7d54ef24d4453462628b29ea68f4"
+    "url": "assets/js/20.11f2c44e.js",
+    "revision": "f70f3cb10428cb8785784a9dea8e5ecf"
   },
   {
-    "url": "assets/js/21.e52ef11b.js",
-    "revision": "40e20b37c6a796d87f9d062165ae6921"
+    "url": "assets/js/21.4bfebe67.js",
+    "revision": "b91a1148b6a462b5a6324e2d31d94258"
   },
   {
-    "url": "assets/js/22.2227297d.js",
-    "revision": "598808cafadcef26c861da8c9df885da"
+    "url": "assets/js/22.6a2680f6.js",
+    "revision": "7b1eee7f205a9f07fadd4db25b52187e"
   },
   {
-    "url": "assets/js/23.7272d5c6.js",
-    "revision": "8f9c5fb3807e36f8b0d03eace5770614"
+    "url": "assets/js/23.e4ac87bc.js",
+    "revision": "0f8e3c5c066dcf9ccb0db9e78d0abc4b"
   },
   {
-    "url": "assets/js/24.81b2f62a.js",
-    "revision": "faf6ed7886c180ac581ea1d9e193ad67"
+    "url": "assets/js/24.32734d92.js",
+    "revision": "af60611a9d81fa8f5a29fa0619920e4c"
   },
   {
-    "url": "assets/js/25.8558cd40.js",
-    "revision": "0c67a9f1d7e15c169cb796f9d22467a3"
+    "url": "assets/js/25.4b43806f.js",
+    "revision": "a3c92b5d73176fc3f0e56a24bc331c04"
   },
   {
-    "url": "assets/js/26.cd3b9d9d.js",
-    "revision": "63348643a4a4aea29856b643e3fe7a03"
+    "url": "assets/js/26.e9c259c1.js",
+    "revision": "fd0c191376475d8b521683bb20517be0"
   },
   {
-    "url": "assets/js/27.2840cc84.js",
-    "revision": "ebb431adf0c8cdaa1b5e56f113abf754"
+    "url": "assets/js/27.c8e44765.js",
+    "revision": "9d8aee32bea19d52b71effb1e9943e09"
   },
   {
-    "url": "assets/js/28.019bca0d.js",
-    "revision": "b46a2a9aea0b3d0347fbb1f125e22999"
+    "url": "assets/js/28.99665e28.js",
+    "revision": "07ea7d158a4226b3e03554d118bbf018"
   },
   {
-    "url": "assets/js/29.6b437c21.js",
-    "revision": "1fb65f0ac67978cbae1835e01ed2f6c7"
+    "url": "assets/js/29.a2cf9b16.js",
+    "revision": "3dd6f2d7c58d4f4334c6f847b7fbf0ee"
   },
   {
-    "url": "assets/js/3.68f15e2f.js",
-    "revision": "ab56d64a2e97d1b96f46790d179fe433"
+    "url": "assets/js/3.71b72357.js",
+    "revision": "9083885da3592e7e5eba457255288628"
   },
   {
-    "url": "assets/js/30.f2832b0b.js",
-    "revision": "65c4a7c5088ebc76ad6aba2851b4bbb4"
+    "url": "assets/js/30.be21b329.js",
+    "revision": "b0e9183ca2aaf34cd537be5737d4cc65"
   },
   {
-    "url": "assets/js/31.3c79be90.js",
-    "revision": "08250e5302955872a315a26709fcad78"
+    "url": "assets/js/31.f0f4795a.js",
+    "revision": "278c4701ac29627dccb4c68ff84fbe7f"
   },
   {
-    "url": "assets/js/32.449836d5.js",
-    "revision": "8a320f5be078fc7ece399fc35a682dbb"
+    "url": "assets/js/32.adbfbb3a.js",
+    "revision": "dcc970e3df1cf92fd4aa71e9cda8cd36"
   },
   {
-    "url": "assets/js/33.7da62ab4.js",
-    "revision": "8e46c76c526090a13ff55a40fae5765a"
+    "url": "assets/js/33.4e06d3f6.js",
+    "revision": "58f92eaa811f48b9fb0ec7908f5fe934"
   },
   {
-    "url": "assets/js/4.08c78c28.js",
-    "revision": "15f25b19228868df0a480b9bb49e5183"
+    "url": "assets/js/34.6ee45667.js",
+    "revision": "4b6f3124c6e1cb496b4d5a92de9ea81c"
   },
   {
-    "url": "assets/js/5.6feaaf52.js",
-    "revision": "4fecf3de7af96ea8b641580756831b5c"
+    "url": "assets/js/4.30bc9a27.js",
+    "revision": "240cc7a810136d0775017f5be002033d"
   },
   {
-    "url": "assets/js/6.8967da1d.js",
-    "revision": "52a2742dc3d9d69360e21b4faf36cbe7"
+    "url": "assets/js/5.0068f0b4.js",
+    "revision": "dbad0152fdba950bbc5d62550faaf820"
   },
   {
-    "url": "assets/js/7.acf113ff.js",
-    "revision": "d010e542de3a7dbe26197b32299a0c66"
+    "url": "assets/js/6.2ae83a2b.js",
+    "revision": "b8f48100a647c2d03638be0edca87279"
   },
   {
-    "url": "assets/js/8.70cc1012.js",
-    "revision": "bfdb7ac38e7190f5599b3556296ea321"
+    "url": "assets/js/7.d5d65495.js",
+    "revision": "3512a46bea7e35adcc2f183f3ab90856"
   },
   {
-    "url": "assets/js/9.8d863574.js",
-    "revision": "2f4e3dbb57d6496ebeaa5d15e6126e00"
+    "url": "assets/js/8.8bd2713f.js",
+    "revision": "957e53b8bf014b1cb4c8f1888c0c653c"
   },
   {
-    "url": "assets/js/app.62d63435.js",
-    "revision": "a580bcf3624c485a6dd84571b436fafa"
+    "url": "assets/js/9.2eb63695.js",
+    "revision": "7a99b5767af6e0328e013047c326c34b"
+  },
+  {
+    "url": "assets/js/app.f528fc69.js",
+    "revision": "746174e3abea1972a4e4f68cc3aa9085"
   },
   {
     "url": "badanhukum/index.html",
-    "revision": "a0e08186ecaa72a10bc5f40a3e94ec28"
+    "revision": "d79132393c7e17860ec70cf100269c64"
   },
   {
     "url": "badanhukum/perkumpulan.html",
-    "revision": "b73f82f6d297f82d2c7a4ee4399c7ae0"
+    "revision": "2a812a291711be40ae100dd81aa3783f"
   },
   {
     "url": "badanhukum/pt.html",
-    "revision": "122f1f2b38f639c231e735c9e41dfdf0"
+    "revision": "aa5675f37984a42efbd8b4dcb7eb76e0"
   },
   {
     "url": "badanhukum/yayasan.1.html",
-    "revision": "99efd2fe9d0bd071d7bad0c89e5a0f57"
+    "revision": "c0fed74511b09bc77656af5494f36384"
   },
   {
     "url": "badanhukum/yayasan.html",
-    "revision": "673badad57ef0d370f7436fd99192827"
+    "revision": "d201ae091f4b5a4d3cd6e3a8de625e6e"
   },
   {
     "url": "badanhukum/yayasan2.html",
-    "revision": "ab253e8261c822786fa4e4c92c3c9298"
+    "revision": "54f4516033974a2acbc465bd6e77fb24"
   },
   {
     "url": "dashline-s.svg",
@@ -197,15 +201,15 @@ self.__precacheManifest = [
   },
   {
     "url": "hartabenda/index.html",
-    "revision": "0dcd1740b56ce273f40ce7b65210cf2a"
+    "revision": "d63a34d5e650114ae385fec0d428d131"
   },
   {
     "url": "hartabenda/kepailitan.html",
-    "revision": "edcf9ebea2a6e423517a8daf9d925a12"
+    "revision": "fbe5fc7746943164a8ef6f5bf7d47636"
   },
   {
     "url": "hartabenda/waris.html",
-    "revision": "e03d923908e5ff66248b110d5bb6fd14"
+    "revision": "948f1f3b2b1098d08cba547a6a98698a"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -313,83 +317,87 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "156c21e3eb1441077d248fc16c9bd16c"
+    "revision": "5aeb0e772e282d3561000343f73b32de"
   },
   {
     "url": "jaminan/fidusia.html",
-    "revision": "3448e0c8daa087a3f69d87892b9540f6"
+    "revision": "4014d88ea9311942996572c521961e37"
   },
   {
     "url": "jaminan/index.html",
-    "revision": "fd0dab4efd699d0f5616d559aa9b57ad"
+    "revision": "533525e882fa9951cd33843f54734104"
   },
   {
     "url": "jaminan/perorangan.html",
-    "revision": "850bafbd845848c068fd26fee458752d"
+    "revision": "87ea90baf14b43a89d4ae9cfa2162778"
   },
   {
     "url": "notaris/index.html",
-    "revision": "c6f7c8d1e020c5a40284bc350cd5d059"
+    "revision": "a7adcf2c033266d1eb7b9a50c7ed06d5"
   },
   {
     "url": "notaris/pemberhentian.html",
-    "revision": "1a9cbe03db8e333c6e97fe705a4976b6"
+    "revision": "a1ccd3c2869eef0fe561fa6d860197ca"
   },
   {
     "url": "notaris/pembinaan.html",
-    "revision": "493ebfe3847137f87e3e41b4de0f94bd"
+    "revision": "814028edc2d7b853fc97cd99480216f3"
   },
   {
     "url": "notaris/pengangkatan.html",
-    "revision": "279c20fb428f37a8713fb58b62db58ef"
+    "revision": "2684e888f7f108e9b97d9a182b755fc7"
   },
   {
     "url": "notaris/pengawasan.html",
-    "revision": "dc07475ea2361f982093b0b9749ae602"
+    "revision": "8701219903363a136921dc60a45e590e"
   },
   {
     "url": "notaris/perpanjangan.html",
-    "revision": "8f6f3fab57fb96a7460af8ce0c869647"
+    "revision": "5cc33e70025f3d3c28dbbcc81abce00e"
   },
   {
     "url": "notaris/pindah.html",
-    "revision": "b263ca583c8a9b60e141dde4be9f1832"
+    "revision": "1c8f6f411aec69e728180bc64154e6ea"
   },
   {
     "url": "notaris/sikap.html",
-    "revision": "62371088e1de65a32ce7e2e7d707a0c7"
+    "revision": "928183a32d722b3e26c46b8cd26aefcf"
   },
   {
     "url": "organisasi/index.html",
-    "revision": "7f3c6102b8e37f5d5904a73290dcc06c"
+    "revision": "7e78ebf94bf75aab5a303f3e50d76064"
   },
   {
     "url": "organisasi/organisasi.html",
-    "revision": "6d7f08c262f0a24ff38a668d792ad44b"
+    "revision": "96438e5112b031eb3b50efc823608cbd"
   },
   {
     "url": "perjanjian/bernama.html",
-    "revision": "e17107deeb8c59aa06ec3466a008d1b4"
+    "revision": "2dd70f48bee0826b7b3183b22a0b4f86"
   },
   {
     "url": "perjanjian/index.html",
-    "revision": "bfc4cdb412df5e5a4c5295f8562a9799"
+    "revision": "d512ac5bd29c5ce3efce8b88488168bd"
   },
   {
     "url": "perjanjian/legalisasi.html",
-    "revision": "98812f6dfb9fea45267052ec65faaf48"
+    "revision": "7aecd82b8c7d2aecdac2c258d0c6370b"
   },
   {
     "url": "perjanjian/tidakbernama.html",
-    "revision": "d1e2b27173b366b1d760fe1799342825"
+    "revision": "a062af7bfc76ddaf02ea5baf39a9491c"
+  },
+  {
+    "url": "tpa/awalakta.html",
+    "revision": "06d10bf9b89a94e84f39b890af3e2534"
   },
   {
     "url": "tpa/index.html",
-    "revision": "277a95cfd3760c7d81822b0650272850"
+    "revision": "a06e11590777c2753d298a92f70d386a"
   },
   {
     "url": "tpa/pribadi.html",
-    "revision": "3905c2c750ab514cc815a149872a2c6f"
+    "revision": "e2dd777f66f6b995fb369d8952d7e981"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

@@ -32,9 +32,10 @@ export default {
 
 <style>
 
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,400i,700,700i');
 
 .AktaText {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'space mono','Courier New', Courier, monospace;
   /* font-size: 14px; */
   
   background-color: #f4f4f4;
