@@ -14,8 +14,8 @@ Syarat-syarat legalisasi
 <AktaText>
 
 Nomor 03/dibukukan/2018.  
-Saya yang bertanda tangan di bawah ini Jono sarjana hukum notaris di kota Bandung menerangkan bahwa pada hari ini Senin tanggal 24 5 2004 (dua puluh empat Mei dua ribu empat belas), Allah menjelaskan isi surat ini kepada Tuhan Asep identitas.  
-Yang saya notaris kenal dan sesudah itu Tuhan Asep tersebut membubuhkan tanda tangan di atas surat ini di hadapan saya notaris.
+Saya yang bertanda tangan di bawah ini JONO sarjana hukum notaris di kota Bandung menerangkan bahwa pada hari ini Senin tanggal 24 5 2004 (dua puluh empat Mei dua ribu empat belas), telah menjelaskan isi surat ini kepada Tuan ASEP identitas.  
+Yang saya notaris kenal dan sesudah itu Tuan ASEP tersebut membubuhkan tanda tangan di atas surat ini di hadapan saya notaris.
 
 </AktaText>
 
@@ -23,7 +23,7 @@ Yang saya notaris kenal dan sesudah itu Tuhan Asep tersebut membubuhkan tanda ta
 <AktaText>
 
 Number.  
-I the undersigned John, sarjana hukum, civil law notary in Jakarta, declare that on this day Monday dated the twenty day of May two thousand eighteen, have explained the content of this document to mr. George who is known to me, notary. and signed the document before me, notary.
+I the undersigned JOHN, sarjana hukum, civil law notary in Jakarta, declare that on this day Monday dated the twenty day of May two thousand eighteen, have explained the content of this document to mr. GEORGE who is known to me, notary. and signed the document before me, notary.
 
 </AktaText>
 
