@@ -185,3 +185,26 @@ Untuk pemberitahuan perubahan anggaran dasar Yayasan yang tidak menggunakan nama
 7. neraca yayasan yang ditandatangani oleh seluruh anggota organ atau akuntan publik
 8. Pengumuman surat kabar mengenai ikhtisar laporan tahunan kekayaannya berasal bantuan negara
 9. Bukti biaya pemberitahuan perubahan anggaran dasar yayasan
+
+
+### Pembubaran  Yayasan
+
+Pembubaran yayasan sebagaiaman undang-undang yayasan dapat dapat melakukan pembubaran karena:
+
+1. jangka waktu yang ditetapkan dalam Anggaran Dasar berakhir,
+2. tujuan Yayasan yang ditetapkan dalam Anggaran Dasar telah tercapai atau tidak tercapai,
+3. putusan Pengadilan yang telah memperoleh kekuatan hukum tetap berdasarkan alasan:
+4. Yayasan melanggar ketertiban umum dan kesusilaan,
+5. tidak mampu membayar utangnya setelah dinyatakan pailit; atau
+6. harta kekayaan Yayasan tidak cukup untuk melunasi utangnya setelah pernyataan pailit dicabut.[4]
+7. Pasal 63 UU 16/2001 sebagaiaman diubah UU 28/2004, yang ditunjuk dapat sebagai “Likudator” apabila Yayasan bubar adalah:
+
+#### Penunjukan Likuidator
+
+- Pembina, bila Yayasan bubar karena pasal 62 ayat 1 dan ayat 2;
+- Pengurus, bila Yayasan bubar dan tidak ditunjuk likuidator;
+- Pihak Lain/Pihak Ketiga, yang ditunjuk sebagai likuidator berdasarkan Putusan Pengadilan.
+
+Yayasan yg bubar, “tidak dapat melakukan perbuatan hukum kecuali untuk membereskan kekayaannya dalam proses likuidasi, utk semua surat keluar, di belakang nama harus dicantumkan frasa “dalam likuidasi”.[5] Yayasan yang pailit, berlaku ketentuan undang-undang tentang kepailitan.
+
+Menurut Gatot Supramono,[6]Pembubaran Yayasan  dengan alasan melanggar ketertiban umum dan kesusilaan, maka pihak  yang tepat menjadi pemohonnya ialah Kejaksaan, karena Kejaksaan  sebagai pihak yang mewakili kepentingan umum. Hal ini sejalan dengan tugasnya, karena Kejaksaan yang mewakili kepentingan umum, sedangkan  perbuatan Yayasan melanggar kepentingan umum. Selanjutnya tentang  alasan Yayasan tidak mampu membayar utang setelah dinyatakan pailit  maupun alasan harta kekayaan Yayasan tidak cukup untuk melunasi  utangnya setelah pernyataan pailit dicabut, menurut beliau yang dapat  mengajukan permohonan pembubaran Yayasan adalah krediturnya, karena  kreditur yang memiliki kepentingan untuk membubarkan.
